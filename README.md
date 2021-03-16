@@ -32,6 +32,8 @@ chmod +x oracle_install.sh
 
 #### Oracle 12C安装包下载
 [百度网盘](https://pan.baidu.com/s/1YvgmT0_Pm7y4O2XOxlFc3g)
+链接: https://pan.baidu.com/s/1mpIcOOgY7l6ejd3aEdYtrQ 提取码: snsd 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v5的分享
 
 #### 支持系统
 <font color=red size=2>注: 脚本已在CentOS 7.x进行测试。如果有其他什么问题，请提交 `issues`反馈</font> 
